@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m Maryum.
 #### Software Developer
 
-A Software Engineer with broad experience in software development and a passion for innovative AI technologies.  I thrive in environments that challenge my technical abilities and allow for impactful solutions. I have a strong foundation in both front and back-end development and am constantly exploring new technological frontiers.
+A Software developer with broad experience in software development and a passion for innovative AI technologies.  I thrive in environments that challenge my technical abilities and allow for impactful solutions. I have a strong foundation in both front and back-end development and am constantly exploring new technological frontiers.
 
 - 🔭 I’m currently working on  I’m currently working on SchoolWheels, a React Native app for safer school commutes.ge. 
 - 👯 I’m looking to collaborate on I'm looking to collaborate on Android projects. 
