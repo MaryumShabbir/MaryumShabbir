@@ -10,8 +10,6 @@ A Software Engineer with broad experience in software development and a passion 
 - 😄 Pronouns: She/Her 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MaryumShabbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/maryum-shabbir/)  
- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MaryumShabbir)](https://github.com/anuraghazra/github-readme-stats)
 
