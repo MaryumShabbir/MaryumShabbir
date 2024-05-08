@@ -11,5 +11,5 @@ A Software Engineer with broad experience in software development and a passion 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MaryumShabbir)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryumShabbir)](https://github.com/anuraghazra/github-readme-stats)
 
